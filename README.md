@@ -108,6 +108,6 @@ Exiting program...
 
 ## Author
 
-**Bagola Navya**
+**Muthoju Vishista**
 
 Cyber Security Intern – Prodigy InfoTech
